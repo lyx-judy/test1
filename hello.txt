@@ -1,9 +1,4 @@
 hello git
 add once
 add branch
-<<<<<<< HEAD
-motified main
-motified main2
-=======
-motified other
->>>>>>> other
+motified main_1
